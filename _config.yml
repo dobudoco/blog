@@ -68,7 +68,7 @@ theme: landscape
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type: git
-  repo: https://github.com/dobudoco/blog
-  branch: gh-pages
-  message: Hee hoo, Hee hoo {{ now('YYYY-MM-DD HH:mm:ss') }})
+  type: #git
+  repo: #https://github.com/dobudoco/blog
+  branch: #gh-pages
+  message: #Hee hoo, Hee hoo {{ now('YYYY-MM-DD HH:mm:ss') }})
