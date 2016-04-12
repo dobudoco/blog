@@ -6,7 +6,6 @@
     "version": "3.2.0"
   },
   "dependencies": {
-    "gh-pages": "^0.11.0",
     "hexo": "^3.1.0",
     "hexo-deployer-git": "^0.1.0",
     "hexo-generator-archive": "^0.1.2",
