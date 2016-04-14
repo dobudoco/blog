@@ -8,7 +8,6 @@ const autoprefixer = require('autoprefixer')
 
 gulp.task('css', () => {
   var processors = [
-    stylus(),
     autoprefixer({ browsers: ['last 1 version'] }),
     cssnano()
   ]
