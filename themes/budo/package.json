@@ -9,8 +9,8 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
+    "autoprefixer": "^6.3.6",
     "gulp": "^3.9.1",
-    "gulp-autoprefixer": "^3.1.0",
     "gulp-postcss": "^6.1.0",
     "gulp-stylus": "^2.3.1"
   }
