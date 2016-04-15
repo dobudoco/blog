@@ -1,7 +1,7 @@
-@custom-media --small-viewport (max-width: 30em);
-@custom-media --medium-viewport (max-width: 45em);
-@custom-media --large-viewport (max-width: 60em);
-@custom-media --x-large-viewport (max-width: 80em);
+@custom-media --small-viewport (width <= 30em);
+@custom-media --medium-viewport (width >= 30em) and (width <= 45em);
+@custom-media --large-viewport (width >= 45em) and (width <= 60em);
+@custom-media --x-large-viewport (width >= 80em);
 
 :root {
   --fontSize: 1rem;
