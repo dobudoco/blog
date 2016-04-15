@@ -1,3 +1,9 @@
+:root {
+  --fontSize: 1rem;
+  --mainColor: #08c;
+  --bodyColor: #000;
+}
+
 body {
-  background: black;
+  background: var(--bodyColor);
 }
