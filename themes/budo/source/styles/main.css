@@ -1,0 +1,25 @@
+@custom-media --small-viewport (max-width: 30em);
+@custom-media --medium-viewport (max-width: 45em);
+@custom-media --large-viewport (max-width: 60em);
+@custom-media --x-large-viewport (max-width: 80em);
+
+:root {
+  --fontSize: 1rem;
+  --mainColor: #08c;
+}
+
+a {
+  color: var(--mainColor);
+  @media (--small-viewport) {
+    font-size: calc(var(--fontSize) * 1.5);
+  }
+  @media (--large-viewport) {
+    font-size: calc(var(--fontSize) * 1.5);
+  }
+}
+
+.site--sidebar {
+  @media (--large-viewport) {
+    background-color: var(--mainColor);
+  }
+}

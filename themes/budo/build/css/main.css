@@ -1,1 +1,1 @@
-h1{background:red}h2{background:blue}@media (max-width:900px){h1,h2{color:#000}}
+a{color:#08c}@media (max-width:30em){a{font-size:1.5rem}}@media (max-width:60em){a{font-size:1.5rem}.site--sidebar{background-color:#08c}}
