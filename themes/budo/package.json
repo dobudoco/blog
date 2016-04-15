@@ -9,7 +9,6 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "autoprefixer": "^6.3.6",
     "css-mqpacker": "^4.0.1",
     "cssnano": "^3.5.2",
     "gulp": "^3.9.1",

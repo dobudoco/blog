@@ -1,0 +1,11 @@
+h1 {
+  @media (max-width: 900px) {
+    color: #000;
+  }
+}
+
+h2 {
+  @media (max-width: 900px) {
+    color: #000;
+  }
+}
