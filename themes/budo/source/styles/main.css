@@ -1,3 +1,5 @@
+@import '_base';
+
 @custom-media --small-viewport (width <= 30em);
 @custom-media --medium-viewport (width >= 30em) and (width <= 45em);
 @custom-media --large-viewport (width >= 45em) and (width <= 60em);
