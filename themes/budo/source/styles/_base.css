@@ -6,4 +6,7 @@
 
 body {
   background: var(--bodyColor);
+  p {
+    color: var(--mainColor);
+  }
 }
