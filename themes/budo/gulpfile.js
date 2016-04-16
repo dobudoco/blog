@@ -21,3 +21,5 @@ gulp.task('css', () => {
     .pipe(postcss(processors, { syntax: scss }))
     .pipe(gulp.dest('source/build/css'))
 })
+
+gulp.task('default', ['css'])
