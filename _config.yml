@@ -62,6 +62,8 @@ pagination_dir: page
 
 # Extensions
 ## Plugins: http://hexo.io/plugins/
+asset_inline:
+  enable: true
 ## Themes: http://hexo.io/themes/
 theme: budo
 
