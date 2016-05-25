@@ -1,0 +1,19 @@
+{
+  "name": "dobudo",
+  "version": "1.0.0",
+  "description": "dobudo blog",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "haha no"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dobudoco/blog.git"
+  },
+  "author": "dobudo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dobudoco/blog/issues"
+  },
+  "homepage": "https://github.com/dobudoco/blog#readme"
+}
