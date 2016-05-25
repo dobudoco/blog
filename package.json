@@ -4,7 +4,11 @@
   "description": "dobudo blog",
   "main": "gulpfile.js",
   "scripts": {
-    "test": "haha no"
+    "start": "npm-run-all --parallel jekyll gulp browsersync",
+    "gulp": "gulp",
+    "jekyll": "jekyll server",
+    "browsersync": "browser-sync start --proxy localhost:4000 --files='_site'",
+    "deploy": "node deploy"
   },
   "repository": {
     "type": "git",
