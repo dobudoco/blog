@@ -19,5 +19,20 @@
   "dependencies": {
     "lost": "^6.8.0",
     "suitcss-base": "^2.0.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.12.8",
+    "css-mqpacker": "^5.0.1",
+    "cssnano": "^3.6.2",
+    "gh-pages": "^0.11.0",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^6.1.1",
+    "npm-run-all": "^2.1.1",
+    "postcss-cssnext": "^2.5.2",
+    "postcss-focus": "^1.0.0",
+    "postcss-font-magician": "^1.4.0",
+    "postcss-import": "^8.1.2",
+    "postcss-nested": "^1.0.0",
+    "postcss-scss": "^0.1.8"
   }
 }
