@@ -21,13 +21,13 @@
   },
   "homepage": "https://github.com/dobudoco/blog#readme",
   "dependencies": {
-    "lost": "^7.0.1",
+    "lost": "^7.0.3",
     "suitcss-base": "^2.0.0"
   },
   "devDependencies": {
     "browser-sync": "^2.13.0",
     "css-mqpacker": "^5.0.1",
-    "cssnano": "^3.7.1",
+    "cssnano": "^3.7.3",
     "gh-pages": "^0.11.0",
     "gulp": "^3.9.1",
     "gulp-postcss": "^6.1.1",
