@@ -1,1 +1,0 @@
-# do budo blog
