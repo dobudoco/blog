@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/dobudoco/blog#readme",
   "dependencies": {
-    "lost": "^7.1.0",
+    "lost": "^7.1.1",
     "suitcss-base": "^2.0.0"
   },
   "devDependencies": {
