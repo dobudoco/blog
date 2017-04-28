@@ -22,7 +22,7 @@
   "homepage": "https://github.com/dobudoco/blog#readme",
   "dependencies": {
     "lost": "^8.0.0",
-    "suitcss-base": "^2.0.0"
+    "suitcss-base": "^3.0.0"
   },
   "devDependencies": {
     "browser-sync": "^2.18.8",
