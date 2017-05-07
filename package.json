@@ -37,6 +37,6 @@
     "postcss-font-magician": "^1.6.0",
     "postcss-import": "^9.1.0",
     "postcss-nested": "^1.0.1",
-    "postcss-scss": "^0.4.1"
+    "postcss-scss": "^1.0.0"
   }
 }
